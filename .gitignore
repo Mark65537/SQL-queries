@@ -1,0 +1,28 @@
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Database files (если случайно создаются локально)
+*.db
+*.sqlite
+*.sqlite3
+
+# SQL Server temporary files
+*.mdf
+*.ldf
+
+# Dumps / exports
+*.dump
+*.backup
